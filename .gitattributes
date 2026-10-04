@@ -1,0 +1,2 @@
+# Preserve the supplied bytes, including CRLF and UTF-16 KLC files.
+* -text
