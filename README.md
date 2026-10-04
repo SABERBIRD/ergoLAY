@@ -10,11 +10,11 @@
 
 Примітка: Інсталятори я збирав буквально для декількох версій, але ви самостійно зможете зробити це за допомогою MSKLC і підготовлених мною прев'ю розкладок
 
-![Прев’ю 1g4](layouts/no-ai/ergoLAY1g4/ergoLAY1g4.png)
+![Прев’ю 1g4](layouts/no-ai/1g4/ergoLAY1g4.png)
 
 Завантажте інсталятор для Windows, розпакуйте ZIP і запустіть `setup.exe`
 
-**[Інсталятор](https://github.com/SABERBIRD/ergoLAY/releases/tag/ergoLAY1g4) · [Проєкт MSKLC](layouts/no-ai/ergoLAY1g4/ergoLAY1g4.klc) · [Файл для KLANext](layouts/no-ai/ergoLAY1g4/ergoLAY1g4.uk.ansi.txt)**
+**[Інсталятор](https://github.com/SABERBIRD/ergoLAY/releases/tag/ergoLAY1g4) · [Проєкт MSKLC](layouts/no-ai/1g4/ergoLAY1g4.klc) · [Файл для KLANext](layouts/no-ai/1g4/ergoLAY1g4.uk.ansi.txt)**
 
 ## Версії
 
